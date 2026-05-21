@@ -26,6 +26,6 @@ Saya adalah seorang **Full-Stack Web Developer** yang berfokus pada pembangunan 
 
 ### 📬 Mari Terhubung!
 
-- 🌐 **Portfolio:** [portofolio-yoel.netlify.app](https://portofolio-yoel.netlify.app)
+- 🌐 **Portfolio:** [yoel.page.gd](https://yoel.page.gd)
 - 💼 **LinkedIn:** [linkedin.com/in/yoel-feliks-hutabarat](https://www.linkedin.com/in/yoel-feliks-hutabarat-380121263/)
 - 📧 **Email:** [yoelfeliks28@gmail.com](mailto:yoelfeliks28@gmail.com)
